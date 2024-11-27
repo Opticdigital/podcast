@@ -1,6 +1,6 @@
 ---
 title:        "Episode 1"
-date:         2022-08-08 08:08:08 +0800
+date:         2022-08-08
 keywords:
 - tag1
 - tag2
