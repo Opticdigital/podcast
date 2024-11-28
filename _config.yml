@@ -1,12 +1,12 @@
-title: My Amazing Podcast
-description: You'll hear me talk about amazing things!
-author: My Name
-email: my@email.com
+title: CollierCast Podcast
+description: You'll hear us talk about amazing things!
+author: Colliercast
+email: colliercast@gaggle.email
 lang: en-us
-copyright: "&#x2117; &amp; &#xA9; 2020"
+copyright: "&#x2117; &amp; CollierCast &#xA9; 2020"
 logo: /assets/img/logo.png
-# baseurl: "" # the subpath of your site, e.g. /blog
-# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+ baseurl: "/podcast/" # the subpath of your site, e.g. /blog
+ url: "https://opticdigital.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
